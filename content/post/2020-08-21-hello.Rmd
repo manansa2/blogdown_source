@@ -11,7 +11,6 @@ keywords:
   - "blogdown"
   - "intro"
 description: "A Covid-19 Summer Activity"
-
 ---
 
 Finally! This blog was over a year in the making, but I finally managed to get it to work.
