@@ -3,6 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/portfolio/tokyo/DSC_0729.JPG"
 date = "Sun Aug 23 22:04:13 2020"
+type = "photos"
 title = "Tokyo, Japan"
 weight = 0
 +++

@@ -1,10 +1,17 @@
 ---
-title: Finally! How I got my blog to work...
-author: Regina Manansala
-date: '2020-08-23'
-slug: hello
-categories: [text]
-tags: [intro]
+title: "Finally! How I got my blog to work..."
+author: "Regina Manansala"
+date: "Fri Aug 21 22:00:00 2020"
+# image: ""
+slug: "blogdown"
+type: "post"
+categories:
+  - "text"
+keywords: 
+  - "blogdown"
+  - "intro"
+description: "A Covid-19 Summer Activity"
+
 ---
 
 Finally! This blog was over a year in the making, but I finally managed to get it to work.
