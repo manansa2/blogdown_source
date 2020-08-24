@@ -19,10 +19,10 @@ It took me a **REALLY** long time to realize that my dissatisfaction with my Git
 I've been intending to start a blog as a showcase or dumping site of sorts. It might be a slow start because I'm learning the intricacies of blogdown and GitHub, as well as deciding on how to appropriately structure my content without becoming a huge mess.
 
 I guess I'll start by sharing the resources I found most useful in creating this blog.
-- https://www.andrea-rau.com/post/hello-blogdown/
-- https://www.tylerclavelle.com/code/2017/blogdown/
-- https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/
-- https://bookdown.org/yihui/blogdown/
+<br> - https://www.andrea-rau.com/post/hello-blogdown/
+<br> - https://www.tylerclavelle.com/code/2017/blogdown/
+<br> - https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/
+<br> - https://bookdown.org/yihui/blogdown/
 
 
 The first link (an old colleague - Andrea) was a huge inspiration for me to create the blog and I'm not ashamed to say how much I frequented her GitHub repositories ("blogdown_source" and "andreamrau.github.io") during this blog creation process. The next two were the most helpful with actually getting started with blogdown and were suggested to my by Andrea. Finally, the last link was helpful due to how it's structured and might be a good resource should I choose to eventually switch to Netlify.
