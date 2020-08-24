@@ -1,4 +1,4 @@
-baseurl = "http://manansala.github.io/"
+baseurl = "https://manansala.github.io/"
 title = "Regina Manansala"
 theme = "hugo-creative-portfolio-theme"
 publishDir = "../manansala.github.io"
