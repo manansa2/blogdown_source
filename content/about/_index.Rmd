@@ -6,14 +6,14 @@ title: CV
 ![](/img/about.png){ width=50% }
 
 <h5>EDUCATION</h5>
-University of Wisconsin - Milwaukee, Milwaukee, WI (Sep 2015 – May 2017)
-Master of Public Health, Biostatistics
-University of Wisconsin – Madison, Madison, WI (Sep 2009 - May 2013)
-Bachelor of Science, Biology
+<br><b>University of Wisconsin - Milwaukee, Milwaukee, WI (Sep 2015 – May 2017)</b>
+<br>Master of Public Health, Biostatistics
+<br><b>University of Wisconsin – Madison, Madison, WI (Sep 2009 - May 2013)</b>
+<br>Bachelor of Science, Biology
 
 <h5>WORK EXPERIENCE</h5>
 <b>UW-Milwaukee, Joseph J. Zilber School of Public Health</b>
-<br>Research Analyst (Apr 2018 – Present)
+<br>Research Programmer (Apr 2018 – Present)
 
 <b>Aurora Research Institute & Aurora UW Medical Group, Milwaukee, WI</b>
 <br>Biostatistician (Jun 2017 – Apr 2018)
@@ -31,6 +31,10 @@ Bachelor of Science, Biology
 <br>Associate Scientist, Small Molecule and Inhalation Department (Apr 2015 – Aug 2015)
 <br>Assistant Scientist, Small Molecule and Inhalation Department (Jul 2013 - Mar 2015)
 
+<h5>JOURNAL ARTICLES</h5>
+Rau, A., <b>Manansala, R.</b>, Flister, M. J., Rui, H., Jaffrézic, F., Laloë, D., and Auer, P. L. (2020) Individualized multi-omic pathway deviation scores using multiple factor analysis. Biostatistics (accepted), https://doi.org/10.1101/827022.
+
+Vuckovic D. et al. (2020) The Polygenic and Monogenic Basis of Blood Traits and Diseases. Cell (accepted), https://doi.org/10.1101/2020.02.02.20020065.
 
 <h5>ABSTRACTS</h5>
 Horvat, CM., Dilworth, TJ., Fehrenbacher, L., <b>Manansala, R.</b>, Brummitt, CF. (2018, October). Impact of a passive, prescriber-directed, electronic best-practice alert on antibiotic prescribing rates for ambulatory adult patients with acute, uncomplicated bronchitis. Infectious Disease Society of America.
@@ -45,7 +49,7 @@ Kalkbrenner, A., Zheng, C., <b>Manansala, R.</b>, Ngui, E., Schauer, J. (2017, J
 Atienza, S., Lydon, E., Rathod, H., <b>Manansala, R.</b> (2018, February). Oral Vancomycin For Clostridium Difficile Prophylaxis In Autologous Stem Cell Transplant. Hematology/Oncology Pharmacy Association (HOPA).
 
 <h5>SKILLS</h5>
-Statistical:  SAS, R, JMP, SQL, Python (basic), STATA (basic)
-Language: Filipino/Tagalog (Native), Dutch(Elementary), French(Elementary)
-Laboratory: GC-MS and H-NMR sample preparation, UV/Vis Spectroscopy, Fourier Harmonic Analysis Imaging, Thin Layer Chromatography, Dissolution, Osmolality testing, Inhalation drug testing (Breath Simulator, Continuous Flow Dose Delivery, Aerosol Particle Size Distribution by Next Generation Impactor), HPLC Analysis
-Computer: Microsoft Office, Photoshop, ShrinkRapt, Oracle (PeopleSoft), Waters Empower, Laboratory Information Management Systems (LIMS).
+<b>Programming:</b>  SAS, R, SQL, Python, Java, STATA (basic)
+<br><b>Language:</b> Filipino/Tagalog (Native), Dutch(Elementary), French(Elementary)
+<br><b>Laboratory:</b> GC-MS and H-NMR sample preparation, UV/Vis Spectroscopy, Fourier Harmonic Analysis Imaging, Thin Layer Chromatography, Dissolution, Osmolality testing, Inhalation drug testing (Breath Simulator, Continuous Flow Dose Delivery, Aerosol Particle Size Distribution by Next Generation Impactor), HPLC Analysis
+<br><b>Computer:</b> JMP, Microsoft Office, Photoshop, ShrinkRapt, Oracle (PeopleSoft), Waters Empower, Laboratory Information Management Systems (LIMS).
