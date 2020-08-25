@@ -1,7 +1,7 @@
 ---
 title: "Reflections on CS 250"
 author: "Regina Manansala"
-date: "Sun Aug 23 22:26:45 2020"
+date: "Mon Aug 24 21:52:23 2020"
 # image: ""
 slug: "cs250"
 type: "post"

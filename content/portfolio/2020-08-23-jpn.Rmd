@@ -1,0 +1,25 @@
+---
+title: "Japan"
+author: "Regina Manansala"
+date: "Sun Aug 23 22:26:45 2020"
+image: "img/portfolio/tokyo/DSC_0729.JPG"
+showonlyimage: true
+slug: "japan"
+type: "post"
+categories:
+  - "photos"
+keywords: 
+  - "blog"
+  - "image"
+description: "Photobook - November 2018"
+---
+
+![](/img/portfolio/tokyo/DSC_0729.JPG)
+
+> Shibuya Center-Gai, November 2018
+
+![](/img/portfolio/tokyo/DSC_0277.JPG)
+
+> Kinkaku-ji, November 2018
+
+To add a bit of color to my blog in the meantime, I'm sharing a couple photos from one of my favorite trips abroad.

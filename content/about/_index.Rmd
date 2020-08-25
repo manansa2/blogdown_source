@@ -6,7 +6,7 @@ title: CV
 ![](/img/about.png){ width=50% }
 
 <h5>EDUCATION</h5>
-<br><b>University of Wisconsin - Milwaukee, Milwaukee, WI (Sep 2015 – May 2017)</b>
+<b>University of Wisconsin - Milwaukee, Milwaukee, WI (Sep 2015 – May 2017)</b>
 <br>Master of Public Health, Biostatistics
 <br><b>University of Wisconsin – Madison, Madison, WI (Sep 2009 - May 2013)</b>
 <br>Bachelor of Science, Biology

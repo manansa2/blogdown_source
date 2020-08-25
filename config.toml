@@ -2,7 +2,6 @@ baseurl = "https://rgnmnl.github.io/"
 title = "Regina Manansala"
 theme = "hugo-creative-portfolio-theme"
 publishDir = "../rgnmnl.github.io"
-
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -12,20 +11,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
   blog = "blog/:year/:slug"
-  code = "code/:year/:slug"
+  portfolio = "portfolio/:year/:slug"
   relativeurls = true
 
 [params]
   
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "green"
+  style = "violet"
   description = ""
   copyright = "&copy;2020 Regina Manansala"
   sidebarAbout = [
-    "I am a statistical programmer at the University of Wisconsin - Milwaukee.",
-    #"As a programmer, I am interested in developing statistical and computational tools for analyzing and visualizing data.",
-    "My other interests include traveling, photography, calligraphy, and languages.",
+    "I am a statistical programmer at the University of Wisconsin - Milwaukee. My other interests include traveling, photography, calligraphy, and languages.",
     "Originally from Manila, currently based in Milwaukee."
   ]
   # Contact page
@@ -52,6 +49,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       #  hash = ""
 
   # Nav links in the side bar
+  
+  [params.siteLogo]
+  #image = "/images/joolian-logo.png"
+  #alttext = "Go to home page"
+  #url = "/
     
   [[params.navlinks]]
   name = "About"
@@ -64,7 +66,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   
   [[params.navlinks]]
   name = "Blog"
-  url = "post/"
+  url = "blog/"
+  #home = true
 
   #[[params.navlinks]]
   #name = "Get in touch"
@@ -75,3 +78,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   twitter       = "https://twitter.com/rm_mph"
   linkedin      = "https://www.linkedin.com/in/regina-manansala-mph-93820421/"
   instagram     = "https://www.instagram.com/reggggie/"
+
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion = "9.11.0"
+  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsLang = ["r", "yaml"]
+  highlightjsTheme = "tomorrow-night-bright"
