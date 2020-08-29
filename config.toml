@@ -74,10 +74,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   #url = "contact/"
 
   [params.social]
-  email         = "manansa2@uwm.edu"
+  #email         = "manansa2@uwm.edu"
   twitter       = "https://twitter.com/rm_mph"
   linkedin      = "https://www.linkedin.com/in/regina-manansala-mph-93820421/"
   instagram     = "https://www.instagram.com/reggggie/"
+  github        = "https://github.com/rgnmnl/"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion = "9.11.0"
