@@ -22,7 +22,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   description = ""
   copyright = "&copy;2020 Regina Manansala"
   sidebarAbout = [
-    "I am a statistical programmer at the University of Wisconsin - Milwaukee. My other interests include traveling, photography, calligraphy, and languages.",
     "Originally from Manila, currently based in Milwaukee."
   ]
   # Contact page
@@ -58,11 +57,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.navlinks]]
   name = "About"
   url = "about/"
+  home = true
   
   [[params.navlinks]]
   name = "Portfolio"
   url = "portfolio/"
-  home = true
+  home = false
   
   [[params.navlinks]]
   name = "Blog"
