@@ -125,7 +125,7 @@ I really wanted to see how much my heart rate varied between the two years. I th
 ```{r steps, echo=FALSE}
 stepcolormonth <- c("#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f")
 
-steps <- watch_2019_wide %>% group_by(month) %>%
+steps <- watch_2020_wide %>% group_by(month) %>%
   ggplot(.) + #, group = as.factor(month), color = as.factor(month))) +
   # geom_line(size = 0.3, color="orange") +
   geom_col(aes(x=date, y=StepCount, fill = month), size = 0.5) +
