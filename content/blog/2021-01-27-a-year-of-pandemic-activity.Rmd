@@ -126,14 +126,11 @@ I really wanted to see how much my heart rate varied between the two years. I th
 stepcolormonth <- c("#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f")
 
 steps <- watch_2020_wide %>% group_by(month) %>%
-  ggplot(.) + #, group = as.factor(month), color = as.factor(month))) +
-  # geom_line(size = 0.3, color="orange") +
+  ggplot(.) +
   geom_col(aes(x=date, y=StepCount, fill = month), size = 0.5) +
-  geom_smooth(aes(x=date, y=StepCount), size = 0.7, colour = "#8d2f57", se = FALSE) + #fill = "#d51c4b") + #
-  # geom_text(position = position_stack(vjust = .5), family = "Helvetica") +
+  geom_smooth(aes(x=date, y=StepCount), size = 0.7, colour = "#8d2f57", se = FALSE) + 
   scale_x_date(date_labels = "%b %y", date_breaks = "1 month") +
   scale_fill_manual(values = stepcolormonth, guide = FALSE) +
-  # scale_y_continuous(labels = scales::comma, breaks = scales::pretty_breaks(n = 2500)) +
   xlab("Month") + 
   ylab("Total Daily Steps") +
   ggtitle("My daily step total in 2020") +
@@ -159,14 +156,11 @@ In 2020, I had 173 days where I exceeded my 10,000-step goal, which is a lot les
 stepcolormonth <- c("#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f", "#79d1dd", "#fcbe4f")
 
 ex <- watch_2020_wide %>% group_by(month) %>%
-  ggplot(.) + #, group = as.factor(month), color = as.factor(month))) +
-  # geom_line(size = 0.3, color="orange") +
+  ggplot(.) + 
   geom_col(aes(x=date, y=ExerciseTime, fill = month), size = 0.5) +
-  geom_smooth(aes(x=date, y=ExerciseTime), size = 0.7, colour = "#8d2f57", se = FALSE) + #fill = "#d51c4b") + #
-  # geom_text(position = position_stack(vjust = .5), family = "Helvetica") +
+  geom_smooth(aes(x=date, y=ExerciseTime), size = 0.7, colour = "#8d2f57", se = FALSE) + 
   scale_x_date(date_labels = "%b %y", date_breaks = "1 month") +
   scale_fill_manual(values = stepcolormonth, guide = FALSE) +
-  # scale_y_continuous(labels = scales::comma, breaks = scales::pretty_breaks(n = 2500)) +
   xlab("Month") + 
   ylab("Total Daily Exercise Time (in minutes)") +
   ggtitle("How much of my day was spent exercising in 2020") +
@@ -206,14 +200,10 @@ My most active day of 2020 was Thanksgiving Day, which we spent walking around a
 
 ```{r cyc, echo=FALSE}
 cyc <- watch_2020_wide %>% group_by(month) %>%
-  ggplot(.) + #, group = as.factor(month), color = as.factor(month))) +
-  # geom_line(size = 0.3, color="orange") +
+  ggplot(.) + 
   geom_col(aes(x=date, y=Cycling), size = 0.5, fill = "#79d1dd") +
-  geom_smooth(aes(x=date, y=Cycling), size = 0.7, colour = "#8d2f57", se = FALSE) + #fill = "#d51c4b") + #
-  # geom_text(position = position_stack(vjust = .5), family = "Helvetica") +
+  geom_smooth(aes(x=date, y=Cycling), size = 0.7, colour = "#8d2f57", se = FALSE) + 
   scale_x_date(date_labels = "%b %y", date_breaks = "1 month") +
-  # scale_fill_manual(values = stepcolormonth, guide = FALSE) +
-  # scale_y_continuous(labels = scales::comma, breaks = scales::pretty_breaks(n = 2500)) +
   xlab("Month") + 
   ylab("Total Cycling Distance (in miles)") +
   ggtitle("How much I cycled in 2020 (not much, but more than usual)") +
