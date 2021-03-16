@@ -36,7 +36,7 @@ At some point during quarantine last year, I found out that you could download a
 
 Last year, for my Spotify Wrapped, I found out that my top songs of 2020 had not one, but 2 (!!) Momoland songs! I thought my Spotify data could help me understand HOW that was possible, but alas, Spotify's data download is not as comprehensive as I expected. 
 
-I read somehwere that Spotify Wrapped only uses 10 months worth of data for your annual. If the data download is only good for some summary stats, I figured I could check if including the remaining 2 months makes any difference.
+I read somewhere that Spotify Wrapped only uses 10 months worth of data. If the data download is only good for some summary stats, I figured I could check if including the remaining 2 months makes any difference.
 
 <h4>Top 5 Artists of 2020</h4>
 
