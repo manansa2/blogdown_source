@@ -49,29 +49,29 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   # Nav links in the side bar
   
-  [params.siteLogo]
-  #image = "/images/joolian-logo.png"
-  #alttext = "Go to home page"
-  #url = "/
+#   [params.siteLogo]
+#   image = "static/img/RM_logo.png"
+#   alttext = "Go to home page"
+#   url = "/"
     
   [[params.navlinks]]
   name = "About"
   url = "about/"
   home = true
   
-  [[params.navlinks]]
-  name = "Portfolio"
-  url = "portfolio/"
-  home = false
+#   [[params.navlinks]]
+#   name = "Portfolio"
+#   url = "portfolio/"
+#   home = false
   
   [[params.navlinks]]
   name = "Blog"
   url = "blog/"
   #home = true
 
-  #[[params.navlinks]]
-  #name = "Get in touch"
-  #url = "contact/"
+  [[params.navlinks]]
+  name = "Contact"
+  url = "contact/"
 
   [params.social]
   #email         = "manansa2@uwm.edu"
